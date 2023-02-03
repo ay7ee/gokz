@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903563938224",
+    "project_id": "gokz-d04ed",
+    "storage_bucket": "gokz-d04ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903563938224:android:088f96b4ac1fe2909cae75",
+        "android_client_info": {
+          "package_name": "com.example.gokz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903563938224-l7jris8ujceq3tvp8s5j5t4bs8m9bh07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPTmmsU4kuByx06kZolJe6kaL5jSh__oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903563938224-l7jris8ujceq3tvp8s5j5t4bs8m9bh07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
